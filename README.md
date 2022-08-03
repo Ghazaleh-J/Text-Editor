@@ -17,4 +17,4 @@ This app is a text editor that runs in the browser. It is a single-page applicat
 * By registering a service worker, you should have the static assets pre cached upon loading along with subsequent pages and static assets
 
 ## Link
-[Heroku Deployed Page](pending)
+[Heroku Deployed Page](https://text-editor-hw.herokuapp.com/)
