@@ -16,5 +16,10 @@ This app is a text editor that runs in the browser. It is a single-page applicat
 * By loading the web application, you should have a registered service worker using workbox
 * By registering a service worker, you should have the static assets pre cached upon loading along with subsequent pages and static assets
 
+## Installation
+* Copy the repository to your system
+* npm install
+* npm start
+
 ## Link
 [Heroku Deployed Page](https://text-editor-hw.herokuapp.com/)
