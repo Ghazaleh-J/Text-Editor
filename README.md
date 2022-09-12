@@ -1,4 +1,4 @@
-# Text_Editor_PWA-19
+# Text_Editor_PWA
 
 ## Description
 This app is a text editor that runs in the browser. It is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. To build this text editor, I started with an existing application and implement methods for getting and storing data to an IndexedDB database. I used a package called idb, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
@@ -20,6 +20,16 @@ This app is a text editor that runs in the browser. It is a single-page applicat
 * Copy the repository to your system
 * npm install
 * npm start
+
+## Technologies
+* HTML
+* CSS
+* JavaScript
+* Express.js
+* Node.js
+
+## Usage
+* This application will allow users to use a text editor in the browswer, and download the text editor to use offline
 
 ## Link
 [Heroku Deployed Page](https://text-editor-hw.herokuapp.com/)
